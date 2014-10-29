@@ -1,0 +1,26 @@
+[
+  {
+    "name":"AccDc",
+    "shortname":"accdc",
+    "demo":"http://whatsock.com/modules/standard_dynamic_control_templates/demo.htm",
+    "bio":"AccDC is a free development resource for international businesses, organizations, and academic institutions wishing to incorporate Accessible Innovation within future web technologies. "
+  },
+  {
+    "name":"Dojo_Toolkit",
+    "shortname":"dojo",
+    "demo":"http://demos.dojotoolkit.org/demos/mobileCharting/demo.html",
+    "bio":"Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications."
+  },
+  {
+    "name":"Glow",
+    "shortname":"glow",
+    "demo":"http://www.bbc.co.uk/glow/demos/keyboardhero/",
+    "bio":"The rationale for the development of the library, as opposed to using other libraries such as jQuery or YUI, was to meet the BBC's stated targets for cross-browser compatibility (particularly Safari 1.3)[3] that are of particular use in creating a website that uses data that corresponds to times, for example broadcast metadata."
+  },
+  {
+    "name":"jQuery",
+    "shortname":"jquery",
+    "demo":"http://jqueryui.com/accordion/",
+    "bio":"jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript."
+  }
+]
