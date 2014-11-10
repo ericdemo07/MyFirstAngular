@@ -1,5 +1,6 @@
 My_First_Angular
 ================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ericdemo07/My_First_Angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Angular_Project
 
 
