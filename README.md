@@ -1,4 +1,4 @@
-####My_First_Angular is a sample project made purely of AngularJS
+####MyFirstAngular is a sample project made purely of AngularJS
 ================
 
 ######What it does
