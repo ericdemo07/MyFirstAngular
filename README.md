@@ -1,13 +1,8 @@
-My_First_Angular
+####My_First_Angular is a sample project made purely of AngularJS
 ================
-Angular_Project
+
+######What it does
+> - picks up data from json and displays in a dropdown
+> - on top of disply page you can see a D3.js animation
 
 
-This project is a test of Angular JS capabilities.
-
-Currently i am having 4 JS frameworks stored in a json
-and i am accessing them with help of Angular JS in a dropdown.
-
-
-On top of it you can see a D3.js animation.
-Enjoy!!
